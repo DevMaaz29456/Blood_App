@@ -1,20 +1,14 @@
-﻿# Mern-blood-app
-
-
- Blood Bank App 🩸
+Blood Bank App
 Overview
-Blood Bank App is a MERN (MongoDB, Express.js, React.js, Node.js) stack application designed to streamline blood donation and requests. The platform connects donors with those in need, ensuring a smooth and efficient donation process.
+Blood Bank App is a MERN stack application that connects blood donors with recipients. It helps users find nearby donors, request blood, and manage donor availability efficiently.
 
 Features
-✅ User authentication (Signup/Login) 🔐
-✅ Find and connect with nearby blood donors 📍
-✅ Request blood donations in emergencies 🆘
-✅ Manage donor profiles and availability 🏥
-✅ Real-time notifications 📢
-✅ Secure and responsive UI/UX 🎨
-
+User authentication (Signup/Login)
+Find and connect with blood donors
+Request blood donations in emergencies
+Manage donor profiles and availability
+Responsive and user-friendly interface
 Tech Stack
 Frontend: React.js, Tailwind CSS
 Backend: Node.js, Express.js
 Database: MongoDB
-Authentication: Firebase/Auth or JWT 
